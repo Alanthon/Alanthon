@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alanthon
 - 👀 I’m interested in I.T
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Prof
+- 💞️ I’m looking to collaborate on Canva
+- 📫 How to reach me Prof Email:alanthonbetay@gmail.com
 
 <!---
 Alanthon/Alanthon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
