@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alanthon
 - 👀 I’m interested in I.T
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Canva
-- 📫 How to reach me Prof Email:alanthonbetay@gmail.com
+- 🌱 I’m currently learning Html
+- 💞️ I’m looking to collaborate on Coding
+- 📫 How to reach me IG: @tnllve_a
